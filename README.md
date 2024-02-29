@@ -1,2 +1,3 @@
 sudo -start # primo
-PRIME C
+rf -PRIME C
+apt install kilop
